@@ -1,0 +1,10 @@
+Post Mapping--->http://localhost:8080/api/account/createaccount
+Get Mapping--->http://localhost:8080/api/account/getaccount/{id}
+Put Mapping--->http://localhost:8080/api/account/deposit/{id}
+Put Mapping--->http://localhost:8080/api/account/withdraw/{id}
+Get Mapping--->http://localhost:8080/api/account/allaccounts
+Delete Mapping--->http://localhost:8080/api/account/deleteaccount/{id}
+
+Get Mapping--->http://localhost:8080//api/transactions/{accountId}
+
+Post Mapping--->http://localhost:8080/api/account/transferfund
